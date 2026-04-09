@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "kitVersion": "0.1.4",
+  "installedAt": "2026-04-09T21:51:58.213Z",
+  "updatedAt": "2026-04-09T21:51:58.213Z",
+  "stack": "web/react",
+  "mode": "docs",
+  "clients": [
+    "claude"
+  ],
+  "mcpServerUrl": "",
+  "docsBaseUrl": ""
+}
