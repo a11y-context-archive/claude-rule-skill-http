@@ -5,7 +5,7 @@ alwaysApply: true
 
 # Accessibility Policy
 
-Run the `a11y-context-reactjs` skill before generating or modifying React component code.
+Run the `a11y-context-reactjs` skill when generating user-facing React UI.
 
 **Invoke when the task involves:**
 - Pages, routes, or views
