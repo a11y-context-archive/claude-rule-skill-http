@@ -1,6 +1,6 @@
 ---
 name: a11y-context-reactjs
-description: Retrieve and apply React accessibility patterns via HTTP before generating front-end code.
+description: For user-facing React UI only — pages, components, and interactive elements. Retrieves accessibility patterns via HTTP. Not for hooks, providers, HOCs, or utilities.
 user-invocable: false
 allowed-tools: Read WebFetch
 ---
