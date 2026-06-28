@@ -1,11 +1,11 @@
 ---
-description: Invoke the a11y-context-reactjs skill before generating React component code.
+description: Invoke the a11y-context-web-react skill before generating React component code.
 alwaysApply: true
 ---
 
 # Accessibility Policy
 
-Run the `a11y-context-reactjs` skill when generating user-facing React UI.
+Run the `a11y-context-web-react` skill when generating user-facing React UI.
 
 **Invoke when the task involves:**
 - Pages, routes, or views
